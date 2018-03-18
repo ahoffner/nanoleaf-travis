@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^2.4.1",
-    "aws-api-lambda-scaffold": "0.0.1-security",
+    "aws-api-lambda-scaffold": "2.0.1",
     "dotenv": "^4.0.0",
     "nanoleaves": "^1.2.0",
     "travis-ci": "^2.1.1",
